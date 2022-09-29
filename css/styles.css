@@ -70,13 +70,13 @@ section {
   text-align: center;
 }
 
-#home .profile-img {
+#index .profile-img {
   width: 300px;
   border-radius: 50%;
 }
 
 
-#home h1 {
+#index h1 {
   font-size: 3em;
 }
 
@@ -93,7 +93,7 @@ header a {
   color: black;
 }
 
-#home {
+#index {
   background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
   background-repeat: no-repeat;
   background-size: 100%;
